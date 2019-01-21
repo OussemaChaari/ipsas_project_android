@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cheques Clients</string>
+    <string name="cheque">Cheque</string>
+    <string name="client">Client</string>
+</resources>
